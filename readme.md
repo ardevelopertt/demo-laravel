@@ -8,27 +8,14 @@
 </p>
 
 ## Laravel Demo App
-Auszug aus meinem Portfolio für Bwerbung.
+Auszug aus meinem Portfolio. Entwickelt vor 3 Jahren.
 
 ## Installation & Konfiguration dieser App:
-
- 			Um die Funktionalitäten dieser App zu testen muss zunächst eine MySQL Datenbank-Anbindung hergestellt werden:
- 					<ul>
- 						<li>
- 							Dafür muss z.B. über phpMyAdmin eine neue Datenbank erstellt werden.
- 							(Name: <b>demo</b>)</div>
- 						</li>
- 						<li>
- 							Ein neues Passwort oder Username ist für diese Demo nicht erforderlich
- 						</li>
- 						<li>
- 							Die Tabellen können anschließend über das Terminal erstellt werden:</div>
- 							Den <b>demo</b> Ordner öffnen und <b> php artisan migrate </b> in das Terminal eingeben.
- 							 Die Datenbank sollte nun erstellt werden.
- 						 
-						</li>
- 						<li>
- 							Alternativ kann auch einfach die beiliegende Datei <b> demo.sql </b> direkt über phpMyAdmin geuploadet werden.
- 						</li>
- 				 	</ul>
+Um die Funktionalitäten dieser App zu testen muss zunächst eine MySQL Datenbank-Anbindung hergestellt werden:
+-Dafür muss z.B. über phpMyAdmin eine neue Datenbank erstellt werden.
+(Name: demo)
+-Ein neues Passwort oder Username ist für diese Demo nicht erforderlich
+-Die Tabellen können anschließend über das Terminal erstellt werden:
+ Den demo Ordner öffnen und php artisan migrate in das Terminal eingeben. Die Datenbank sollte nun erstellt werden.
+-Alternativ kann auch einfach die beiliegende Datei demo.sql direkt über phpMyAdmin geuploadet werden.
  		
