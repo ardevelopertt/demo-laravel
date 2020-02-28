@@ -11,7 +11,8 @@
 Auszug aus meinem Portfolio. Entwickelt vor 3 Jahren.
 
 ## Installation & Konfiguration dieser App:
-Um die Funktionalitäten dieser App zu testen muss zunächst eine MySQL Datenbank-Anbindung hergestellt werden:
+Um die Funktionalitäten dieser App zu testen muss zunächst eine MySQL Datenbank-Anbindung hergestellt werden:</p>
+
 -Dafür muss z.B. über phpMyAdmin eine neue Datenbank erstellt werden.
 (Name: demo)
 -Ein neues Passwort oder Username ist für diese Demo nicht erforderlich
