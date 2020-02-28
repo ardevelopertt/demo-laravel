@@ -16,5 +16,4 @@ Um die Funktionalitäten dieser App zu testen muss zunächst eine MySQL Datenban
 (Name: demo) <br>
 -Ein neues Passwort oder Username ist für diese Demo nicht erforderlich<br>
 -Die Tabellen können anschließend über das Terminal erstellt werden:(Den demo Ordner öffnen und php artisan migrate in das Terminal eingeben. Die Datenbank sollte nun erstellt werden.)<br>
--Alternativ kann auch einfach die beiliegende Datei demo.sql direkt über phpMyAdmin geuploadet werden.
  		
